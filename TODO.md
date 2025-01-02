@@ -9,4 +9,4 @@
 ## Future
 
 - [ ] Optional url normalization helpers for URL hashing
-- [ ] Branding support for ID/Hash validators and generators, potentially using [ts-brand](https://github.com/kourge/ts-brand)
+- [ ] Branding support for ID/Hash validators and generators? Something like [ts-brand](https://github.com/kourge/ts-brand)

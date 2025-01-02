@@ -1,6 +1,6 @@
 {
   "name": "@eatonfyi/ids",
-  "version": "1.2.0",
+  "version": "1.2.1",
   "description": "Generate, validate, and pretty-print a variety of IDs and hash formats.",
   "type": "module",
   "main": "./dist/index.cjs",
@@ -38,7 +38,7 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/eaton/ids.git"
+    "url": "https://github.com/eaton/fyi-ids.git"
   },
   "devDependencies": {
     "@tapjs/typescript": "^3.0.0",
